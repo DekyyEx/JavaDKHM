@@ -1,3 +1,5 @@
+package hm1;
+
 import javax.swing.*;
 import java.awt.*;
 
